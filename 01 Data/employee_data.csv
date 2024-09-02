@@ -1,0 +1,11 @@
+Employee ID,Employee Name,Skills,Availability (hours/week),Current Workload (hours/week)
+1,John,"Network Administration, Security",40,0
+2,Jane,"Database Management, SQL",40,0
+3,Emily,"Python, Automation",40,0
+4,Michael,"Cloud Computing, AWS",40,0
+5,Chris,"Java, Backend Development",40,0
+6,Sophia,"Frontend Development, HTML/CSS",40,0
+7,Daniel,"DevOps, CI/CD",40,0
+8,Olivia,"Python, Data Science",40,0
+9,Matthew,"Security, Penetration Testing",40,0
+10,Emma,"PHP, Web Development",40,0

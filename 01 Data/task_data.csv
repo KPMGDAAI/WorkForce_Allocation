@@ -1,0 +1,21 @@
+Task ID,Task Name,Required Skills,Task Duration (hours),Task Priority
+1,Network Setup,"Network Administration, Security",20,3
+2,Database Optimization,"Database Management, SQL",30,4
+3,Automated Testing,"Python, Automation",15,2
+4,Cloud Infrastructure Setup,"Cloud Computing, AWS",25,5
+5,Backend Development,"Java, Backend Development",35,1
+6,Frontend Enhancement,"Frontend Development, HTML/CSS",20,3
+7,CI/CD Pipeline Implementation,"DevOps, CI/CD",40,4
+8,Data Analysis,"Python, Data Science",30,5
+9,Security Audit,"Security, Audit",50,1
+10,Web Application Development,"PHP, Web Development",25,2
+11,System Integration,"System Integration, Java",45,4
+12,Software Deployment,"Software Deployment, Python",20,3
+13,Penetration Testing,"Security, Penetration Testing",30,5
+14,Server Maintenance,"Server Maintenance, Network Administration",35,2
+15,Load Balancing,"Load Balancing, AWS",25,1
+16,Disaster Recovery Planning,"Disaster Recovery, Planning",20,3
+17,User Management,"User Management, SQL",15,4
+18,API Development,"API Development, Python",30,5
+19,Compliance Check,"Compliance, Check",40,1
+20,Performance Tuning,"Performance Tuning, Java",50,2
